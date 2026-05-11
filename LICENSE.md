@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with instant Workflow for iStat Menus for macOS - menu-bar-customization and VM-management, the #1 workflow. Includes menu-bar-customization and
 
 
 
